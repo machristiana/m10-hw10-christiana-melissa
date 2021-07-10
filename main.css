@@ -14,6 +14,16 @@ body {
     color: rgb(84, 131, 219);
 }
 
+h1,
+h2 {
+    font-family: eurostile, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 p {
     color: rgb(200, 205, 228);
+    font-family: azo-sans-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
