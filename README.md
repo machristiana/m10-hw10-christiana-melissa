@@ -4,4 +4,4 @@
 I didn't have any issues.
 
 ## Resources
-No outside resources were used.
+I used code from previous lectures and the information provided in this module to guide me.
