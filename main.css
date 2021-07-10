@@ -1,8 +1,19 @@
-
 .hide {
-  opacity: 0;
+    opacity: 0;
 }
+
 .show {
-  opacity: 1;
-  transition: opacity 1s;
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+body {
+    text-align: center;
+    background-image: url(images/therm.jpg);
+    background-size: cover;
+    color: rgb(84, 131, 219);
+}
+
+p {
+    color: rgb(200, 205, 228);
 }
