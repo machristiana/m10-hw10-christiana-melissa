@@ -30,7 +30,7 @@ const frozen = document.getElementById('frozen');
 let goodTemp = document.getElementById('good-temp');
 let waterTempVariable = 90;
 
-setTimeout(function() {
+setTimeout(() => {
     if (waterTempVariable > 212) {
         boiling.classList.remove('hide');
         boiling.classList.add('show');
